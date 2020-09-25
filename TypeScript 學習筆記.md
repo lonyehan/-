@@ -2,6 +2,9 @@
 tags: Programing, Typescript
 ---
 # TypeScript 學習筆記
+
+[![hackmd-github-sync-badge](https://hackmd.io/Z1bsxv0jSSWEQ8_rwXGN7A/badge)](https://hackmd.io/Z1bsxv0jSSWEQ8_rwXGN7A)
+
 [TOC]
 
 # `第一章` Basic types
